@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Rafflesia",
+      "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTvEwcUjN4xUTnmDe_hgFC2Zi2-8ZQYu3OS2OksOnGm711V2yUVf0JbI1FUvH8gMLerj4EpUXVFWIuqtpw",
+      "price": 39,
+      "id": 8
     }
   ]
 }
